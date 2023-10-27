@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.talentcoders.co%2Fjava-dili-nedir-nerelerde-kullanilir%2F&psig=AOvVaw3GtsupA2IDfzEMJObimRO0&ust=1698510860798000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjB0JbUloIDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/imgres?imgurl=http%3A%2F%2Fveriakademi.com%2Fimages%2Fjava-ne-ise-yarar.jpg&tbnid=oQsIfeD6p6_vIM&vet=12ahUKEwiMlYjH1ZaCAxVhnycCHcH5BkQQMygBegQIARBK..i&imgrefurl=https%3A%2F%2Fveriakademi.com%2Fjava-ne-ise-yarar&docid=wljg85K9BUG0VM&w=650&h=359&q=java&hl=tr&ved=2ahUKEwiMlYjH1ZaCAxVhnycCHcH5BkQQMygBegQIARBK)
 
 <h1 align="center">Merhaba 👋, ben Yusuf Karaduman</h1>
 <h3 align="center">Türkiye'den tutkulu bir java şeytan ustası</h3>
